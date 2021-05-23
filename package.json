@@ -1,0 +1,11 @@
+{
+  "name": "legendary-train",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stelianok/legendary-train.git",
+  "author": "Kauã Steliano' <stelianok@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
